@@ -6,11 +6,11 @@ inputs:
   pnpm-run-install:
     description: Whether to run pnpm install
     required: false
-    default: 'true'
+    default: "true"
   pnpm-restore-cache:
     description: Whether to restore cache
     required: false
-    default: 'true'
+    default: "true"
   pnpm-install-cache-key:
     description: The cache key for the pnpm install cache
     required: false
@@ -41,8 +41,8 @@ runs:
     - name: Setup Node.js
       uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4.4.0
       with:
-        node-version-file: '.nvmrc'
-        cache: 'pnpm'
+        node-version-file: ".nvmrc"
+        cache: "pnpm"
 
     - name: Run pnpm install
       if: ${{ inputs.pnpm-run-install == 'true' }}
