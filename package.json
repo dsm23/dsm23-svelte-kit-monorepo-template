@@ -4,8 +4,9 @@
   "scripts": {
     "build": "turbo run build",
     "dev": "turbo run dev",
+    "fmt": "prettier --write .",
+    "fmt.check": "prettier --check .",
     "lint": "turbo run lint",
-    "format": "prettier --write .",
     "check-types": "turbo run check-types"
   },
   "devDependencies": {
