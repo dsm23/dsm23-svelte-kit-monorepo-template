@@ -39,7 +39,7 @@
     "prettier-plugin-css-order": "2.1.2",
     "prettier-plugin-tailwindcss": "0.7.1",
     "svelte": "5.43.6",
-    "svelte-check": "4.3.3",
+    "svelte-check": "4.3.4",
     "typescript": "5.9.3",
     "vite": "7.2.2"
   }
