@@ -56,6 +56,10 @@
       ]
     },
     {
+      "groupName": "turbo monorepo",
+      "matchPackageNames": ["@turbo/**", "eslint-plugin-turbo", "turbo"]
+    },
+    {
       "description": "Stricter security:minimumReleaseAgeNpm",
       "matchDatasources": ["npm"],
       "matchManagers": ["npm"],
