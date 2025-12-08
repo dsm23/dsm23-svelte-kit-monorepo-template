@@ -10,9 +10,9 @@
     "check-types": "turbo run check-types"
   },
   "devDependencies": {
-    "@commitlint/cli": "20.1.0",
-    "@commitlint/config-conventional": "20.0.0",
-    "@commitlint/types": "20.0.0",
+    "@commitlint/cli": "20.2.0",
+    "@commitlint/config-conventional": "20.2.0",
+    "@commitlint/types": "20.2.0",
     "prettier": "3.7.4",
     "prettier-plugin-svelte": "3.4.0",
     "turbo": "2.6.3"
