@@ -1,3 +1,8 @@
+blockExoticSubdeps: true
+
+onlyBuiltDependencies:
+  - lefthook
+
 packages:
   - "apps/*"
   - "packages/*"
@@ -5,3 +10,9 @@ packages:
 publicHoistPattern:
   - "*eslint*"
   - "*prettier*"
+
+savePrefix: ""
+
+sideEffectsCache: false
+
+trustPolicy: no-downgrade
