@@ -24,7 +24,7 @@
 		"@repo/eslint-config": "workspace:*",
 		"@repo/typescript-config": "workspace:*",
 		"@sveltejs/adapter-auto": "7.0.1",
-		"@sveltejs/kit": "2.60.0",
+		"@sveltejs/kit": "2.60.1",
 		"@sveltejs/vite-plugin-svelte": "7.1.2",
 		"@total-typescript/ts-reset": "0.6.1",
 		"@types/node": "25.7.0",
