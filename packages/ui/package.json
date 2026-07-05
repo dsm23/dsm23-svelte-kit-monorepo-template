@@ -32,7 +32,7 @@
     "@ianvs/prettier-plugin-sort-imports": "4.7.1",
     "@repo/eslint-config": "workspace:*",
     "@repo/typescript-config": "workspace:*",
-    "@sveltejs/kit": "2.68.0",
+    "@sveltejs/kit": "2.69.0",
     "@sveltejs/package": "2.5.8",
     "@sveltejs/vite-plugin-svelte": "7.1.2",
     "@types/node": "25.9.4",
