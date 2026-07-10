@@ -34,7 +34,7 @@
     "@repo/typescript-config": "workspace:*",
     "@sveltejs/kit": "2.69.1",
     "@sveltejs/package": "2.5.8",
-    "@sveltejs/vite-plugin-svelte": "7.1.2",
+    "@sveltejs/vite-plugin-svelte": "7.1.4",
     "@types/node": "25.9.4",
     "eslint": "10.6.0",
     "prettier-plugin-css-order": "2.2.0",
